@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+
+
+<!-- App Theme -->
+<style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <item name="android:statusBarColor">@color/Gray</item>
+    <item name="android:navigationBarColor">@color/Gray</item>
+
+</style>
+
+</resources>
+

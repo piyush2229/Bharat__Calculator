@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Calc" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+
+          <item name="android:statusBarColor">@color/Gray</item>
+        <item name="android:navigationBarColor">@color/Gray</item>
+
+
+
+    </style>
+</resources>
